@@ -6,10 +6,10 @@ Star Jar helps mothers manage their children's time through a fun, visual reward
 
 ## ✨ Features
 
-- ⏱️ Simple task timer with start/stop/reset functionality  
-- 🧒 Cute character to guide and support the child  
-- ⭐ Stars collected stars in a jar as rewards  
-- 🎉 Celebration screen after successful task completion
+- Simple task timer with start/stop/reset functionality  
+- Cute character to guide and support the child  
+- Stars collected stars in a jar as rewards  
+- Celebration screen after successful task completion
 
 ---
 
